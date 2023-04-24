@@ -1,0 +1,22 @@
+.app-chatbot{
+  border-radius: 25px;
+  background-color: #c7d3d4ff;
+  border: none;
+  position: fixed;
+  z-index: 9999;
+  cursor: pointer;
+ 
+}
+
+.botAvatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 25px;
+  margin-right: 15px;
+}
+
+.chatContainer {
+  display: flex;
+  flex-direction: row;
+  align-items :center; /* Centering x-axis */
+}

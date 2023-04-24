@@ -1,0 +1,9 @@
+.app-chatbot{
+  border-radius: 25px;
+  background-color: #c7d3d4ff;
+  border: none;
+  position: fixed;
+  z-index: 9999;
+  cursor: pointer;
+ 
+}
